@@ -65,3 +65,22 @@ Dense Layer (128 neurons)
 Dropout
         ↓
 Output Layer (10 classes)
+
+## ⚙️ Installation
+### 1. Clone the Repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+### 2. cd Image_Classification_System
+### 3. pip install -r requirements.txt
+### 4. python image_classification.py
+### 5. python predict.py image.png
+
+===================================
+       IMAGE CLASSIFICATION
+===================================
+Image: image.png
+Predicted Class: dog
+Confidence: 59.57%
+===================================
