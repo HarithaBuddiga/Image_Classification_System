@@ -66,9 +66,9 @@ Dropout
         ↓
 Output Layer (10 classes)
 
-## ⚙️ Installation
-### 1. Clone the Repository
-
+**## ⚙️ Installation**
+**### 1. Clone the Repository
+**
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 
