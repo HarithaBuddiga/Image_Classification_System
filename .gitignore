@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+image.png
+
+*.tar.gz
+*.zip
+
+.env
